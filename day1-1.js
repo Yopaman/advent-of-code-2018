@@ -1,0 +1,1 @@
+//write the input in the browser console
